@@ -1,2 +1,2 @@
-# desafio.DIO primeiro repositorio
+# desafio.DIO primeiro repositório
 prejeto sobre git/github DIO
